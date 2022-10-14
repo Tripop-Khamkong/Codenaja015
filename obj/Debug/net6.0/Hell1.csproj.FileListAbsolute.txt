@@ -1,0 +1,60 @@
+E:\MDT211\midterm1\Hell1\bin\Debug\net6.0\Hell1.exe
+E:\MDT211\midterm1\Hell1\bin\Debug\net6.0\Hell1.deps.json
+E:\MDT211\midterm1\Hell1\bin\Debug\net6.0\Hell1.runtimeconfig.json
+E:\MDT211\midterm1\Hell1\bin\Debug\net6.0\Hell1.dll
+E:\MDT211\midterm1\Hell1\bin\Debug\net6.0\Hell1.pdb
+E:\MDT211\midterm1\Hell1\obj\Debug\net6.0\Hell1.csproj.AssemblyReference.cache
+E:\MDT211\midterm1\Hell1\obj\Debug\net6.0\Hell1.GeneratedMSBuildEditorConfig.editorconfig
+E:\MDT211\midterm1\Hell1\obj\Debug\net6.0\Hell1.AssemblyInfoInputs.cache
+E:\MDT211\midterm1\Hell1\obj\Debug\net6.0\Hell1.AssemblyInfo.cs
+E:\MDT211\midterm1\Hell1\obj\Debug\net6.0\Hell1.csproj.CoreCompileInputs.cache
+E:\MDT211\midterm1\Hell1\obj\Debug\net6.0\Hell1.dll
+E:\MDT211\midterm1\Hell1\obj\Debug\net6.0\refint\Hell1.dll
+E:\MDT211\midterm1\Hell1\obj\Debug\net6.0\Hell1.pdb
+E:\MDT211\midterm1\Hell1\obj\Debug\net6.0\Hell1.genruntimeconfig.cache
+E:\MDT211\midterm1\Hell1\obj\Debug\net6.0\ref\Hell1.dll
+C:\Users\NITRO 5\Downloads\Hell1\bin\Debug\net6.0\Hell1.exe
+C:\Users\NITRO 5\Downloads\Hell1\bin\Debug\net6.0\Hell1.deps.json
+C:\Users\NITRO 5\Downloads\Hell1\bin\Debug\net6.0\Hell1.runtimeconfig.json
+C:\Users\NITRO 5\Downloads\Hell1\bin\Debug\net6.0\Hell1.dll
+C:\Users\NITRO 5\Downloads\Hell1\bin\Debug\net6.0\Hell1.pdb
+C:\Users\NITRO 5\Downloads\Hell1\obj\Debug\net6.0\Hell1.csproj.AssemblyReference.cache
+C:\Users\NITRO 5\Downloads\Hell1\obj\Debug\net6.0\Hell1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NITRO 5\Downloads\Hell1\obj\Debug\net6.0\Hell1.AssemblyInfoInputs.cache
+C:\Users\NITRO 5\Downloads\Hell1\obj\Debug\net6.0\Hell1.AssemblyInfo.cs
+C:\Users\NITRO 5\Downloads\Hell1\obj\Debug\net6.0\Hell1.csproj.CoreCompileInputs.cache
+C:\Users\NITRO 5\Downloads\Hell1\obj\Debug\net6.0\Hell1.dll
+C:\Users\NITRO 5\Downloads\Hell1\obj\Debug\net6.0\refint\Hell1.dll
+C:\Users\NITRO 5\Downloads\Hell1\obj\Debug\net6.0\Hell1.pdb
+C:\Users\NITRO 5\Downloads\Hell1\obj\Debug\net6.0\Hell1.genruntimeconfig.cache
+C:\Users\NITRO 5\Downloads\Hell1\obj\Debug\net6.0\ref\Hell1.dll
+C:\Users\Peak\Downloads\Hell1\bin\Debug\net6.0\Hell1.exe
+C:\Users\Peak\Downloads\Hell1\bin\Debug\net6.0\Hell1.deps.json
+C:\Users\Peak\Downloads\Hell1\bin\Debug\net6.0\Hell1.runtimeconfig.json
+C:\Users\Peak\Downloads\Hell1\bin\Debug\net6.0\Hell1.dll
+C:\Users\Peak\Downloads\Hell1\bin\Debug\net6.0\Hell1.pdb
+C:\Users\Peak\Downloads\Hell1\obj\Debug\net6.0\Hell1.csproj.AssemblyReference.cache
+C:\Users\Peak\Downloads\Hell1\obj\Debug\net6.0\Hell1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Peak\Downloads\Hell1\obj\Debug\net6.0\Hell1.AssemblyInfoInputs.cache
+C:\Users\Peak\Downloads\Hell1\obj\Debug\net6.0\Hell1.AssemblyInfo.cs
+C:\Users\Peak\Downloads\Hell1\obj\Debug\net6.0\Hell1.csproj.CoreCompileInputs.cache
+C:\Users\Peak\Downloads\Hell1\obj\Debug\net6.0\Hell1.dll
+C:\Users\Peak\Downloads\Hell1\obj\Debug\net6.0\refint\Hell1.dll
+C:\Users\Peak\Downloads\Hell1\obj\Debug\net6.0\Hell1.pdb
+C:\Users\Peak\Downloads\Hell1\obj\Debug\net6.0\Hell1.genruntimeconfig.cache
+C:\Users\Peak\Downloads\Hell1\obj\Debug\net6.0\ref\Hell1.dll
+E:\MDT211\Hell2\bin\Debug\net6.0\Hell1.exe
+E:\MDT211\Hell2\bin\Debug\net6.0\Hell1.deps.json
+E:\MDT211\Hell2\bin\Debug\net6.0\Hell1.runtimeconfig.json
+E:\MDT211\Hell2\bin\Debug\net6.0\Hell1.dll
+E:\MDT211\Hell2\bin\Debug\net6.0\Hell1.pdb
+E:\MDT211\Hell2\obj\Debug\net6.0\Hell1.csproj.AssemblyReference.cache
+E:\MDT211\Hell2\obj\Debug\net6.0\Hell1.GeneratedMSBuildEditorConfig.editorconfig
+E:\MDT211\Hell2\obj\Debug\net6.0\Hell1.AssemblyInfoInputs.cache
+E:\MDT211\Hell2\obj\Debug\net6.0\Hell1.AssemblyInfo.cs
+E:\MDT211\Hell2\obj\Debug\net6.0\Hell1.csproj.CoreCompileInputs.cache
+E:\MDT211\Hell2\obj\Debug\net6.0\Hell1.dll
+E:\MDT211\Hell2\obj\Debug\net6.0\refint\Hell1.dll
+E:\MDT211\Hell2\obj\Debug\net6.0\Hell1.pdb
+E:\MDT211\Hell2\obj\Debug\net6.0\Hell1.genruntimeconfig.cache
+E:\MDT211\Hell2\obj\Debug\net6.0\ref\Hell1.dll
